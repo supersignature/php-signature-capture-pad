@@ -1,0 +1,4 @@
+Upload "Samples" folder to you server and open the index.html page.
+Please give "WRITE" permissions to the "signs" folder.
+
+Trial version will work from "http://localhost" only.
